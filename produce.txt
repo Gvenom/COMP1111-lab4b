@@ -1,6 +1,9 @@
 wheat
-vegetable
+spinach
 radish
 peanut
 corn
 sorghum
+potato
+tomato
+eggplant
