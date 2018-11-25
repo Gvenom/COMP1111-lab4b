@@ -1,6 +1,9 @@
 wine
 milk
-juice
+orange juice
 coffee
 coke
 sprite
+watermelon juice
+pulse
+cocktail
