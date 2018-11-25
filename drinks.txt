@@ -1,3 +1,6 @@
 wine
 milk
 juice
+coffee
+coke
+sprite
