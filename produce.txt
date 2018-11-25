@@ -1,3 +1,6 @@
 wheat
 vegetable
 radish
+peanut
+corn
+sorghum
