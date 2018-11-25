@@ -1,6 +1,6 @@
 wheat
 vegetable
 radish
-peanuttt
-cornnn
-sorghummm
+peanut
+corn
+sorghum
