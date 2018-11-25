@@ -1,6 +1,9 @@
 apple
 banana
-pear
+blueberries
 watermelon
 grape
 pineapple
+peach
+mango
+strawberry
