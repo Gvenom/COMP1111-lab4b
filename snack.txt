@@ -1,3 +1,6 @@
 cake
 hamburg
-chicken wing
+chickenwing
+pancakes
+hotdog
+chocolate
