@@ -1,6 +1,6 @@
 apple
 banana
 pear
-watermelonnn
-grapeee
-pineappleee
+watermelon
+grape
+pineapple
